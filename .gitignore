@@ -5,6 +5,13 @@
 logs/
 mvnw*
 .mvn*
+/src/main/java/kafka_streams/AllSessionInteractiveQuery.java
+/src/main/java/kafka_streams/PropertyFileTest.java
+/src/main/java/kafka_streams/SessionWindowsExample.java
+/src/main/java/kafka_streams/StreamWithPropertyFile.java
+/src/main/java/kafka_streams/ThreadTest.java
+/src/main/java/kafka_streams/WordCountLambdaExample.java
+
 
 ### STS ###
 .apt_generated
